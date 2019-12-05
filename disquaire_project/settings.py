@@ -30,7 +30,7 @@ if os.environ.get('ENV') == 'PRODUCTION':
 else:
     DEBUG = True
 #"&]1VHzvM:5\x0bk9#y#v>'PPbsD"
-ALLOWED_HOSTS = ['disquaire.herokuapp.com']
+ALLOWED_HOSTS = ['taldisc.herokuapp.com']
 
 
 # Application definition
